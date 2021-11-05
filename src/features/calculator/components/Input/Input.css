@@ -1,0 +1,11 @@
+input{
+    text-align: center;
+    height: 50px;
+    width: 140px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #b7c3c8;
+    border: 0px;
+    outline: 0;
+    font-size: 30px;
+}

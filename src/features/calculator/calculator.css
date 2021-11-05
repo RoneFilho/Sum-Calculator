@@ -1,0 +1,24 @@
+*{
+    background-color: #1D2162;
+    color: #FFF;
+}
+
+.Calculadora{
+    text-align: center;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    background-color: #1E90FF;
+    border: 0px;
+    outline: 0;
+    border-radius: 5px 20px;
+    font-size: 40px;
+}
+
+label{
+    margin: 10px;
+    font-size: 40px;
+    color: #FFF;
+}
