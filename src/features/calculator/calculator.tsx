@@ -1,5 +1,5 @@
 import React from "react";
-import { Input } from "./components/Input";
+import { Input } from "features/calculator/components/Input";
 import './calculator.css';
 
 export const Calculator: React.FC = () => {
